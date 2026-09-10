@@ -1,0 +1,1 @@
+Whenever we create a branch, it creates it from the head (the latest commit) of the current branch.
