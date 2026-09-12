@@ -2,6 +2,6 @@ Hey, I am no longer ingesting the data in this file (this bug fix is brought to 
 
 Changes on master branch, master here. Let me contribute
 
-
+I am ingesting batch_data
 
 I have fixed the bug down here
